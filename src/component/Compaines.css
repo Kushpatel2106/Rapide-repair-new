@@ -1,0 +1,21 @@
+.compaines-name{
+    text-align: center;
+    font-size: 2.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contaier{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.compaine-box{
+    padding: 34px;
+}
+
+.compaine-box img{
+    height: 100px;
+    padding: 15px;
+    margin: 2px 2px
+}

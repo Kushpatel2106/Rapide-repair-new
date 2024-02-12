@@ -1,0 +1,50 @@
+.footer{
+    background-color: silver;
+    display: flex;
+    align-items: center;
+}
+
+/* .img-name-add{
+} */
+
+.box1{
+    display: flex;
+    align-items: center;
+}
+
+.logo-img{
+    height: 50px;
+    width: 50px;
+    margin: 20px 20px;
+}
+
+.tital-name{
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.address{
+    margin: 20px 20px;
+}
+
+.address h4{
+    margin-top: 10px;
+}
+
+.contect{
+    display: flex;
+    margin-left: 150px;
+    font-size: 1.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.con-box{
+    margin: 20px 20px;
+}
+
+.boxs{
+    margin: 20px 20px;
+}
+
